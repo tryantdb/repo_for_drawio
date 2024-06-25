@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-25T08:06:17.596Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="e7gXJy9YjRCIGgT8B-oB" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-25T08:44:30.243Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="3R4NvWReo3sgPbZhrow2" version="24.6.2" type="github">
   <diagram name="第 1 页" id="avmDc23T9HDgsjV4XYvA">
     <mxGraphModel dx="1674" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -150,23 +150,26 @@
         <mxCell id="2_RnS9Cv0YsXSPb3wlUZ-51" value="开始部署集群" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="500" y="1200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NCFBYxv4-C-78Fe6J2oB-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="2_RnS9Cv0YsXSPb3wlUZ-54" target="2_RnS9Cv0YsXSPb3wlUZ-39">
+        <mxCell id="NCFBYxv4-C-78Fe6J2oB-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="2_RnS9Cv0YsXSPb3wlUZ-54" target="2_RnS9Cv0YsXSPb3wlUZ-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2_RnS9Cv0YsXSPb3wlUZ-54" value="用户添加服务器资源" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="1200" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NCFBYxv4-C-78Fe6J2oB-1" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;圆角矩形表示用户行为&lt;/span&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;直角矩形表示TDBA行为&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="290" width="180" height="130" as="geometry" />
+        <mxCell id="NCFBYxv4-C-78Fe6J2oB-1" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;圆角矩形表示用户行为&lt;/span&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;直角矩形表示TDBA行为&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="30" width="180" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="NCFBYxv4-C-78Fe6J2oB-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NCFBYxv4-C-78Fe6J2oB-4" target="NCFBYxv4-C-78Fe6J2oB-6">
+        <mxCell id="NCFBYxv4-C-78Fe6J2oB-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NCFBYxv4-C-78Fe6J2oB-4" target="NCFBYxv4-C-78Fe6J2oB-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NCFBYxv4-C-78Fe6J2oB-4" value="用户发起数据库部署规划请求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NCFBYxv4-C-78Fe6J2oB-4" value="用户发起数据库部署规划请求" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="20" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NCFBYxv4-C-78Fe6J2oB-6" value="判断集群将用于生产环境" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NCFBYxv4-C-78Fe6J2oB-6" value="判断集群将用于生产环境" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pwyaFFv9Z6xUY4HFMzEa-2" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;生产环境流程&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="290" width="180" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
