@@ -1,0 +1,166 @@
+<mxfile host="app.diagrams.net" modified="2024-06-25T07:21:55.670Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Hfr7Frof99gFMNsQ_lSf" version="24.6.2" type="github">
+  <diagram name="第 1 页" id="avmDc23T9HDgsjV4XYvA">
+    <mxGraphModel dx="1674" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2_RnS9Cv0YsXSPb3wlUZ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2_RnS9Cv0YsXSPb3wlUZ-1" target="2_RnS9Cv0YsXSPb3wlUZ-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_RnS9Cv0YsXSPb3wlUZ-1" value="用户发起数据库部署规划请求" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="90" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2_RnS9Cv0YsXSPb3wlUZ-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2_RnS9Cv0YsXSPb3wlUZ-2" target="2_RnS9Cv0YsXSPb3wlUZ-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_RnS9Cv0YsXSPb3wlUZ-2" value="要求用户提供业务指标：数据容量，总连接数..." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2_RnS9Cv0YsXSPb3wlUZ-3" value="圆角矩形表示用户行为&lt;div&gt;直角矩形表示TDBA行为&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="465" y="73" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2_RnS9Cv0YsXSPb3wlUZ-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2_RnS9Cv0YsXSPb3wlUZ-5" target="2_RnS9Cv0YsXSPb3wlUZ-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_RnS9Cv0YsXSPb3wlUZ-5" value="用户提供业务指标" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="250" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2_RnS9Cv0YsXSPb3wlUZ-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2_RnS9Cv0YsXSPb3wlUZ-9" target="2_RnS9Cv0YsXSPb3wlUZ-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_RnS9Cv0YsXSPb3wlUZ-9" value="查询-T模版方案与ACC现有资源" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2_RnS9Cv0YsXSPb3wlUZ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="2_RnS9Cv0YsXSPb3wlUZ-11" target="2_RnS9Cv0YsXSPb3wlUZ-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_RnS9Cv0YsXSPb3wlUZ-11" value="根据方案与现有资源给出两种建议，同时告知用户可以自定义主机规格" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="80" y="430" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2_RnS9Cv0YsXSPb3wlUZ-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2_RnS9Cv0YsXSPb3wlUZ-15" target="2_RnS9Cv0YsXSPb3wlUZ-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_RnS9Cv0YsXSPb3wlUZ-15" value="用户输入主机规格：X核，内存64G，磁盘40T" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="305" y="190" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2_RnS9Cv0YsXSPb3wlUZ-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2_RnS9Cv0YsXSPb3wlUZ-17" target="2_RnS9Cv0YsXSPb3wlUZ-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_RnS9Cv0YsXSPb3wlUZ-17" value="根据用户选择的规格计算出需求服务器几台，节点数量与分布方案" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="590" y="480" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2_RnS9Cv0YsXSPb3wlUZ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.005;entryY=0.45;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="2_RnS9Cv0YsXSPb3wlUZ-20" target="2_RnS9Cv0YsXSPb3wlUZ-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="775" />
+              <mxPoint x="400" y="534" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2_RnS9Cv0YsXSPb3wlUZ-23" value="否，且用户重新约定主机规格" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="2_RnS9Cv0YsXSPb3wlUZ-22" vertex="1" connectable="0">
+          <mxGeometry x="0.1749" y="-1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2_RnS9Cv0YsXSPb3wlUZ-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2_RnS9Cv0YsXSPb3wlUZ-20" target="2_RnS9Cv0YsXSPb3wlUZ-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_RnS9Cv0YsXSPb3wlUZ-31" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="2_RnS9Cv0YsXSPb3wlUZ-29" vertex="1" connectable="0">
+          <mxGeometry x="-0.38" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2_RnS9Cv0YsXSPb3wlUZ-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="2_RnS9Cv0YsXSPb3wlUZ-20" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="870" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="221" y="830" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2_RnS9Cv0YsXSPb3wlUZ-33" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="2_RnS9Cv0YsXSPb3wlUZ-32" vertex="1" connectable="0">
+          <mxGeometry x="0.236" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2_RnS9Cv0YsXSPb3wlUZ-20" value="用户同意方案" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="465" y="720" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="2_RnS9Cv0YsXSPb3wlUZ-28" value="结束" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="650" y="880" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2_RnS9Cv0YsXSPb3wlUZ-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2_RnS9Cv0YsXSPb3wlUZ-34" target="2_RnS9Cv0YsXSPb3wlUZ-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_RnS9Cv0YsXSPb3wlUZ-34" value="查询ACC现有服务器资源是否满足部署需求" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="120" y="870" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2_RnS9Cv0YsXSPb3wlUZ-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2_RnS9Cv0YsXSPb3wlUZ-35" target="2_RnS9Cv0YsXSPb3wlUZ-39" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_RnS9Cv0YsXSPb3wlUZ-41" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="2_RnS9Cv0YsXSPb3wlUZ-40" vertex="1" connectable="0">
+          <mxGeometry x="-0.0667" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2_RnS9Cv0YsXSPb3wlUZ-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2_RnS9Cv0YsXSPb3wlUZ-35" target="2_RnS9Cv0YsXSPb3wlUZ-42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_RnS9Cv0YsXSPb3wlUZ-44" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="2_RnS9Cv0YsXSPb3wlUZ-43" vertex="1" connectable="0">
+          <mxGeometry x="-0.0667" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2_RnS9Cv0YsXSPb3wlUZ-35" value="满足需求" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="180" y="1030" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2_RnS9Cv0YsXSPb3wlUZ-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2_RnS9Cv0YsXSPb3wlUZ-39" target="2_RnS9Cv0YsXSPb3wlUZ-47" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_RnS9Cv0YsXSPb3wlUZ-39" value="生成集群拓扑图" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="320" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2_RnS9Cv0YsXSPb3wlUZ-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="2_RnS9Cv0YsXSPb3wlUZ-42" target="2_RnS9Cv0YsXSPb3wlUZ-54" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_RnS9Cv0YsXSPb3wlUZ-42" value="提醒用户添加资源" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="160" y="1200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2_RnS9Cv0YsXSPb3wlUZ-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="2_RnS9Cv0YsXSPb3wlUZ-47" target="2_RnS9Cv0YsXSPb3wlUZ-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_RnS9Cv0YsXSPb3wlUZ-50" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="2_RnS9Cv0YsXSPb3wlUZ-49" vertex="1" connectable="0">
+          <mxGeometry x="0.07" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2_RnS9Cv0YsXSPb3wlUZ-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2_RnS9Cv0YsXSPb3wlUZ-47" target="2_RnS9Cv0YsXSPb3wlUZ-51" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_RnS9Cv0YsXSPb3wlUZ-53" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="2_RnS9Cv0YsXSPb3wlUZ-52" vertex="1" connectable="0">
+          <mxGeometry x="-0.4667" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2_RnS9Cv0YsXSPb3wlUZ-47" value="用户同意部署方案" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="520" y="1030" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2_RnS9Cv0YsXSPb3wlUZ-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="2_RnS9Cv0YsXSPb3wlUZ-51" target="2_RnS9Cv0YsXSPb3wlUZ-28" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2_RnS9Cv0YsXSPb3wlUZ-51" value="开始部署" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="500" y="1200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2_RnS9Cv0YsXSPb3wlUZ-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="2_RnS9Cv0YsXSPb3wlUZ-54" target="2_RnS9Cv0YsXSPb3wlUZ-51" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_RnS9Cv0YsXSPb3wlUZ-54" value="用户添加服务器资源" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="1200" width="160" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
