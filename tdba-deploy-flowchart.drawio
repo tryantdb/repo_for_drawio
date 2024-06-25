@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-25T07:21:55.670Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Hfr7Frof99gFMNsQ_lSf" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-25T07:24:48.359Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="wcSp6h89dFStQSsaEs4l" version="24.6.2" type="github">
   <diagram name="第 1 页" id="avmDc23T9HDgsjV4XYvA">
     <mxGraphModel dx="1674" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -15,9 +15,6 @@
         </mxCell>
         <mxCell id="2_RnS9Cv0YsXSPb3wlUZ-2" value="要求用户提供业务指标：数据容量，总连接数..." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="170" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="2_RnS9Cv0YsXSPb3wlUZ-3" value="圆角矩形表示用户行为&lt;div&gt;直角矩形表示TDBA行为&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="465" y="73" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2_RnS9Cv0YsXSPb3wlUZ-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2_RnS9Cv0YsXSPb3wlUZ-5" target="2_RnS9Cv0YsXSPb3wlUZ-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -159,6 +156,9 @@
         </mxCell>
         <mxCell id="2_RnS9Cv0YsXSPb3wlUZ-54" value="用户添加服务器资源" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="1200" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NCFBYxv4-C-78Fe6J2oB-1" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;圆角矩形表示用户行为&lt;/span&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;直角矩形表示TDBA行为&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="290" width="180" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
