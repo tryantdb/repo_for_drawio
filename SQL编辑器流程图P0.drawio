@@ -62,7 +62,10 @@
           <mxGeometry x="35.5" y="80" width="205" height="50" as="geometry" />
         </mxCell>
         <mxCell id="cwy2zFpdUiN23_DuvUop-40" value="调整页大小" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="cwy2zFpdUiN23_DuvUop-37">
-          <mxGeometry x="35.5" y="180" width="205" height="50" as="geometry" />
+          <mxGeometry x="32.5" y="150" width="205" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cwy2zFpdUiN23_DuvUop-44" value="按指定列排序" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="cwy2zFpdUiN23_DuvUop-37">
+          <mxGeometry x="35.5" y="225" width="205" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
