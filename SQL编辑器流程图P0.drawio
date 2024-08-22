@@ -4,6 +4,57 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="cwy2zFpdUiN23_DuvUop-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cwy2zFpdUiN23_DuvUop-0" target="cwy2zFpdUiN23_DuvUop-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cwy2zFpdUiN23_DuvUop-0" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="230" y="20" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cwy2zFpdUiN23_DuvUop-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cwy2zFpdUiN23_DuvUop-1" target="cwy2zFpdUiN23_DuvUop-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cwy2zFpdUiN23_DuvUop-1" value="用户打开SQL编辑器" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="195" y="120" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cwy2zFpdUiN23_DuvUop-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cwy2zFpdUiN23_DuvUop-4" target="cwy2zFpdUiN23_DuvUop-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cwy2zFpdUiN23_DuvUop-4" value="用户输入SQL" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="195" y="220" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cwy2zFpdUiN23_DuvUop-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cwy2zFpdUiN23_DuvUop-6" target="cwy2zFpdUiN23_DuvUop-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cwy2zFpdUiN23_DuvUop-6" value="用户执行SQL" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="210" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cwy2zFpdUiN23_DuvUop-8" value="ADC输出结果表格" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="210" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cwy2zFpdUiN23_DuvUop-15" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="220" y="540" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cwy2zFpdUiN23_DuvUop-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cwy2zFpdUiN23_DuvUop-8" target="cwy2zFpdUiN23_DuvUop-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cwy2zFpdUiN23_DuvUop-34" value="操作" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="414" y="40" width="276" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="cwy2zFpdUiN23_DuvUop-19" value="ADC提供自动填充SQL" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="cwy2zFpdUiN23_DuvUop-34">
+          <mxGeometry x="46" y="80" width="205" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cwy2zFpdUiN23_DuvUop-20" value="ADC判断语法高亮" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="cwy2zFpdUiN23_DuvUop-34">
+          <mxGeometry x="46" y="150" width="205" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cwy2zFpdUiN23_DuvUop-22" value="用户选择格式化SQL" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="cwy2zFpdUiN23_DuvUop-34">
+          <mxGeometry x="46" y="240" width="205" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cwy2zFpdUiN23_DuvUop-36" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cwy2zFpdUiN23_DuvUop-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="310" as="sourcePoint" />
+            <mxPoint x="410" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
