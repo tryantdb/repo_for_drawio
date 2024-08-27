@@ -51,15 +51,6 @@
         <mxCell id="2_RnS9Cv0YsXSPb3wlUZ-20" value="ACC服务器资源满足方案需求" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="442.5" y="540" width="175" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="2_RnS9Cv0YsXSPb3wlUZ-42" value="提醒用户添加资源" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="160" y="1200" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="2_RnS9Cv0YsXSPb3wlUZ-51" value="开始部署集群" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="500" y="1200" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="2_RnS9Cv0YsXSPb3wlUZ-54" value="用户添加服务器资源" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="300" y="1200" width="160" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="NCFBYxv4-C-78Fe6J2oB-1" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;圆角矩形表示用户行为&lt;/span&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;直角矩形表示TuringDBA行为&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="30" width="180" height="130" as="geometry" />
         </mxCell>
