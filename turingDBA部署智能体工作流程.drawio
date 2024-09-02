@@ -83,8 +83,14 @@
         <mxCell id="3vLu7BlT9xJ3HZMu0S2S-22" value="数据库管理模块执行&lt;div&gt;集群部署&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="330" y="510" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="3vLu7BlT9xJ3HZMu0S2S-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3vLu7BlT9xJ3HZMu0S2S-24" target="3vLu7BlT9xJ3HZMu0S2S-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3vLu7BlT9xJ3HZMu0S2S-24" value="数据库管理模块执行&lt;div&gt;集群扩容&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="530" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3vLu7BlT9xJ3HZMu0S2S-29" value="监测到" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="550" y="600" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
