@@ -53,13 +53,13 @@
         <mxCell id="3vLu7BlT9xJ3HZMu0S2S-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3vLu7BlT9xJ3HZMu0S2S-6" target="3vLu7BlT9xJ3HZMu0S2S-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3vLu7BlT9xJ3HZMu0S2S-6" value="提取负载要求，配置要求，服务器性能数据" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="3vLu7BlT9xJ3HZMu0S2S-6" value="语言模型提取负载要求，配置要求，服务器性能数据" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="330" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3vLu7BlT9xJ3HZMu0S2S-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3vLu7BlT9xJ3HZMu0S2S-9" target="3vLu7BlT9xJ3HZMu0S2S-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3vLu7BlT9xJ3HZMu0S2S-9" value="提取自定义扩容目标，预期性能等参数" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="3vLu7BlT9xJ3HZMu0S2S-9" value="语言模型提取自定义扩容目标，预期性能等参数" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="530" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3vLu7BlT9xJ3HZMu0S2S-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3vLu7BlT9xJ3HZMu0S2S-16" target="3vLu7BlT9xJ3HZMu0S2S-20">
@@ -71,7 +71,7 @@
         <mxCell id="3vLu7BlT9xJ3HZMu0S2S-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3vLu7BlT9xJ3HZMu0S2S-18" target="3vLu7BlT9xJ3HZMu0S2S-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3vLu7BlT9xJ3HZMu0S2S-18" value="语言模型生成&lt;div&gt;集群部署方案&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="3vLu7BlT9xJ3HZMu0S2S-18" value="生成&lt;div&gt;集群部署方案&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="330" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3vLu7BlT9xJ3HZMu0S2S-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3vLu7BlT9xJ3HZMu0S2S-20" target="3vLu7BlT9xJ3HZMu0S2S-24">
@@ -89,8 +89,8 @@
         <mxCell id="3vLu7BlT9xJ3HZMu0S2S-24" value="数据库管理模块执行&lt;div&gt;集群扩容&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="530" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3vLu7BlT9xJ3HZMu0S2S-29" value="监测到" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="550" y="600" width="80" height="80" as="geometry" />
+        <mxCell id="3vLu7BlT9xJ3HZMu0S2S-29" value="监测到集群性能下降？" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="515" y="600" width="150" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
