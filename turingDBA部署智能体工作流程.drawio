@@ -42,7 +42,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3vLu7BlT9xJ3HZMu0S2S-13" value="扩容要求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="3vLu7BlT9xJ3HZMu0S2S-10" vertex="1" connectable="0">
+        <mxCell id="3vLu7BlT9xJ3HZMu0S2S-13" value="是扩容要求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="3vLu7BlT9xJ3HZMu0S2S-10" vertex="1" connectable="0">
           <mxGeometry x="-0.12" y="-6" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
